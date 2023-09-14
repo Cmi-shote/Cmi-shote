@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi 👋, I'm Similoluwa Shote, a passionate software developer with a knack for electrical engineering. I'm a coding enthusiast 🚀.
+I'm Similoluwa Shote, a passionate software developer with a knack for electrical engineering. I'm a coding enthusiast 🚀.
 
 🔭 Currently working on Software Solutions
 🌱 Always learning and exploring new technologies
