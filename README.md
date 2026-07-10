@@ -18,14 +18,18 @@ Software Developer with a background in Electrical Engineering, now dedicated to
 *   💬 Ask me about Software Development, Coding Challenges
 *   ⚡ Fun fact: I love watching sitcoms!
 
+#
 
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="830" src="https://streak-stats.demolab.com?user=Cmi-shote&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Cmi-shote&show_icons=true&theme=tokyonight&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Cmi-shote&layout=compact&theme=tokyonight&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 
-### 📈 Contribution Graph
+
 
 <p align="center">
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Cmi-shote&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution Graph" />
