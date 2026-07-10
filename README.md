@@ -20,17 +20,15 @@ Software Developer with a background in Electrical Engineering, now dedicated to
 
 
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Cmi-shote&show_icons=true&theme=tokyonight&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Cmi-shote&layout=compact&theme=tokyonight&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img width="830" src="https://streak-stats.demolab.com?user=Cmi-shote&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
+
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cmi-shote&bg_color=00000000&color=5b6573&line=5b6573&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Cmi-shote&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution Graph" />
 </p>
 
 
