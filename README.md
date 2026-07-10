@@ -1,8 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Similoluwa Shote
-========================================================================================================================================
+<p align="center">
+  <a href="https://github.com/Cmi-shote">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Simi" alt="Hello! I&#39;m Simi" />
+  </a>
+</p>
 
-Software Developer
-------------------
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=Software%20Dev" alt="Typing headlines" />
+</p>
 
 Software Developer with a background in Electrical Engineering, now dedicated to shaping a future in software engineering.
 
@@ -13,6 +17,22 @@ Software Developer with a background in Electrical Engineering, now dedicated to
 *   🚀 I'm on the lookout for exciting opportunities to amplify my impact and make work even more fun!
 *   💬 Ask me about Software Development, Coding Challenges
 *   ⚡ Fun fact: I love watching sitcoms!
+
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Cmi-shote&show_icons=true&theme=tokyonight&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Cmi-shote&layout=compact&theme=tokyonight&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cmi-shote&bg_color=00000000&color=5b6573&line=5b6573&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
 
 ### Skills
 
