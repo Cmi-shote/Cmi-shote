@@ -28,14 +28,6 @@ Software Developer with a background in Electrical Engineering, now dedicated to
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Cmi-shote&layout=compact&theme=tokyonight&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-
-
-
-<p align="center">
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Cmi-shote&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution Graph" />
-</p>
-
-
 ### Skills
 
 <p align="left">
